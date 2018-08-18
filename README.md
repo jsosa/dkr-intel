@@ -1,2 +1,2 @@
 # dkr-intel
-Docker image with Intel Parallel Studio XE Composer Edition for C++
+Dockerfile with Intel Parallel Studio XE Composer Edition for C++
